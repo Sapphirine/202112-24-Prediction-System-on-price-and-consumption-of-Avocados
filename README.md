@@ -1,5 +1,5 @@
 # 202112-24-Prediction-System-on-price-and-consumption-of-Avocados
-The original dataset is kept in the HitoricalData folder.
+## The original dataset is kept in the HitoricalData folder.
 The data processing code is kept in the DataProcessing folder.
 The code for training and the trained models are saved in ModelsAndTraining folder.
 The code to generate a prediction result and the prediction in csv are kept in ModelsPrediction folder.
